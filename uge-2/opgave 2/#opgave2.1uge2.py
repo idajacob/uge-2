@@ -1,7 +1,7 @@
 import os
 
 
-input_fil = r"C:\Users\spac-27\uge-2\opgave 2\app_log (logfil analyse) - random.txt"
+input_fil = "app_log (logfil analyse) - random.txt"
 error_fil = "error_logs.txt"
 warning_fil = "warning_logs.txt"
 
