@@ -1,0 +1,5 @@
+2025-03-05 14:15:01,941 - ERROR - Kildefilen 'source_data.csv' findes ikke.
+2025-03-05 14:15:01,941 - ERROR - [Errno 2] No such file or directory: 'source_data.csv'
+2025-03-05 14:15:01,942 - ERROR - name 'headers' is not defined
+2025-03-05 14:16:00,926 - ERROR - [Errno 13] Permission denied: 'C:\\Users\\spac-27\\uge-2\\opgave 3'
+2025-03-05 14:16:00,927 - ERROR - name 'headers' is not defined
