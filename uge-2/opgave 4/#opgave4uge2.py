@@ -10,7 +10,7 @@ import numpy as np
 
 #gruppering af data
 
-df = pd.read_csv("C:/Users/spac-27/uge-2/opgave 4/DKHousingPricesSample100k(in).csv")
+df = pd.read_csv("DKHousingPricesSample100k(in).csv")
 
 print(df.head(10))
 
