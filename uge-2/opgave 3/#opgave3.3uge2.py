@@ -10,7 +10,7 @@ logging.basicConfig(
     format="%(asctime)s - %(levelname)s - %(message)s"
 )
 
-source_file = r"C:\Users\spac-27\uge-2\opgave 3"
+source_file = "source_data.csv"
 destination_file = "destination_data.csv"
 
 data = []
