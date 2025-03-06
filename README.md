@@ -28,6 +28,6 @@ Opgave 4
 
 Feedback
 
-•	Jeg er nybegynder og vil gerne have feedback på hvordan jeg strukturerer min koden bedst muligt. 
+•	Jeg er nybegynder og vil gerne have feedback på hvordan jeg strukturerer min kode bedst muligt. 
 
 •	Jeg vil gerne vide hvordan man beskriver hvordan ens kode kører. Det ved jeg simpelthen ikke helt hvad der menes med.
